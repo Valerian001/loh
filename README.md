@@ -40,7 +40,7 @@ This is a mobile e-commerce product listing application built with **Expo Router
 ├── data/
 │   └── products.json          # Mock product data
 ├── types/
-│   └── Product.d.ts           # Product interface type (
+│   └── Product.d.ts           # Product interface type
 └── README.md
 
 ```
@@ -49,22 +49,22 @@ This is a mobile e-commerce product listing application built with **Expo Router
 ## Getting Started
 
 ### 1. Clone the repo
-\`\`\`bash
+```bash
 git clone https://github.com/Valerian001/loh.git
 cd loh
-\`\`\`
+```
 
 ### 2. Install dependencies
-\`\`\`bash
+```bash
 npm install
 # or
 yarn install
-\`\`\`
+```
 
 ### 3. Run the app
-\`\`\`bash
+```bash
 npx expo start
-\`\`\`
+```
 
 ---
 
