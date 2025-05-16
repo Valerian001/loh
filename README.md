@@ -25,7 +25,8 @@ This is a mobile e-commerce product listing application built with **Expo Router
 ---
 
 ## Project Structure
-\`\`\`
+
+```bash
 .
 ├── app/
 │   └── index.tsx              # Main product listing screen
@@ -39,10 +40,10 @@ This is a mobile e-commerce product listing application built with **Expo Router
 ├── data/
 │   └── products.json          # Mock product data
 ├── types/
-│   └── Product.d.ts           # Product interface type (optional)
+│   └── Product.d.ts           # Product interface type (
 └── README.md
-\`\`\`
 
+```
 ---
 
 ## Getting Started
