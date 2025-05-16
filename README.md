@@ -50,7 +50,7 @@ This is a mobile e-commerce product listing application built with **Expo Router
 ### 1. Clone the repo
 \`\`\`bash
 git clone https://github.com/Valerian001/loh.git
-cd ecommerce-listing-react-native
+cd loh
 \`\`\`
 
 ### 2. Install dependencies
